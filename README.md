@@ -31,7 +31,7 @@
   <h3 align="center">EZ University - Course Information System</h3>
 
   <p align="center">
-    Web Development using Django App Framworks
+    Web Development using Django App Frameworks
     <br />
     <a href="https://github.com/0beansprout/oh_youngbeen_ezu"><strong>Explore the docs »</strong></a>
     <br />
