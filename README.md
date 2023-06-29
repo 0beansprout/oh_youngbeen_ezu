@@ -109,6 +109,10 @@ If you want to demonstrate this website, you can find more information [here](ht
 
 The level of information accessibility for each user and group is determined by their respective authorization and authentication credentials. Please consult the table provided below to obtain further details regarding permissions.
 
+[![Username Password Screen Shot][usernamepassword-screenshot]](https://imgur.com/LxR5ZQy)
+[![Permission Screen Shot1][permission-screenshot-1]](https://imgur.com/lRiSrgC)
+[![Permission Screen Shot2][permission-screenshot-2]](https://imgur.com/Z2Xuu1d)
+
 <!-- ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
@@ -144,10 +148,6 @@ This is an example of how to list things you need to use the software and how to
 
 This project can serve as a foundation for developing other web application sites that rely on databases, including course systems. It provides a reusable structure and functionality that can be adapted and extended to meet the specific requirements of different applications. By leveraging the code and architecture in this project, developers can save time and effort in building similar database-driven websites.
 
-
-[![Username Password Screen Shot][usernamepassword-screenshot]](https://imgur.com/LxR5ZQy)
-[![Permission Screen Shot1][permission-screenshot-1]](https://imgur.com/lRiSrgC)
-[![Permission Screen Shot2][permission-screenshot-2]](https://imgur.com/Z2Xuu1d)
 
 
 
