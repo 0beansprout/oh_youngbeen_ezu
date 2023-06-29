@@ -95,7 +95,7 @@ The project aimed to utilize the Django App Framework to design, code, and test 
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
 
-[![Python_logo][Python]][Python-url] [![HTML_logo][HTML]][HTML-url] [![CSS_logo][CSS]][CSS-url] [![Django_logo][Django]][Django-url] 
+[![Python_logo][Python]][Python-url] [![HTML_logo][HTML]][HTML-url] [![CSS_logo][CSS]][CSS-url] [![JavaScript_logo][JavaScript]][JavaScript-url] [![Django_logo][Django]][Django-url] 
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
@@ -261,6 +261,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [HTML-url]: https://html.com/
 [CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://www.w3.org/Style/CSS/Overview.en.html#:~:text=What%20is%20CSS%3F,from%20the%20CSS%20working%20group.
+[JavaScript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[JavaScript-url]: https://www.javascript.com/ 
 [Django]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
 [Django-url]: https://www.djangoproject.com/
 [usernamepassword-screenshot]: https://imgur.com/LxR5ZQy.png
