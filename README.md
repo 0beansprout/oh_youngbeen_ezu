@@ -268,5 +268,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Django]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
 [Django-url]: https://www.djangoproject.com/
 [usernamepassword-screenshot]: https://imgur.com/LxR5ZQy.png
-[permission-screenshot-1]: https://imgur.com/lRiSrgC
-[permission-screenshot-2]: https://imgur.com/Z2Xuu1d
+[permission-screenshot-1]: https://imgur.com/lRiSrgC.png
+[permission-screenshot-2]: https://imgur.com/Z2Xuu1d.png
