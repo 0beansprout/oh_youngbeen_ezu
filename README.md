@@ -146,7 +146,9 @@ This project can serve as a foundation for developing other web application site
 
 
 [![Username Password Screen Shot][usernamepassword-screenshot]](https://imgur.com/LxR5ZQy)
-[![Permission Screen Shot][permission-screenshot]](https://imgur.com/75JXW6H)
+[![Permission Screen Shot1][permission-screenshot-1]](https://imgur.com/lRiSrgC)
+[![Permission Screen Shot2][permission-screenshot-2]](https://imgur.com/Z2Xuu1d)
+
 
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
@@ -266,4 +268,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Django]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
 [Django-url]: https://www.djangoproject.com/
 [usernamepassword-screenshot]: https://imgur.com/LxR5ZQy.png
-[permission-screenshot]: https://imgur.com/75JXW6H.png
+[permission-screenshot-1]: https://imgur.com/lRiSrgC
+[permission-screenshot-2]: https://imgur.com/Z2Xuu1d
