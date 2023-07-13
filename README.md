@@ -96,6 +96,7 @@ The project aimed to utilize the Django App Framework to design, code, and test 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
 
 [![Python_logo][Python]][Python-url] [![HTML_logo][HTML]][HTML-url] [![CSS_logo][CSS]][CSS-url] [![JavaScript_logo][JavaScript]][JavaScript-url] [![Django_logo][Django]][Django-url] 
+[![SQLite_logo][SQLite]][SQLite-url]
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
@@ -268,6 +269,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [JavaScript-url]: https://www.javascript.com/ 
 [Django]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
 [Django-url]: https://www.djangoproject.com/
+[SQlite]: https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+[SQLite-url]: https://www.sqlite.org/index.html
 [usernamepassword-screenshot]: https://imgur.com/LxR5ZQy.png
 [permission-screenshot-1]: https://imgur.com/lRiSrgC.png
 [permission-screenshot-2]: https://imgur.com/Z2Xuu1d.png
