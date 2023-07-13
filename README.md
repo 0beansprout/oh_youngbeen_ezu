@@ -112,6 +112,7 @@ The level of information accessibility for each user and group is determined by 
 [![Username Password Screen Shot][usernamepassword-screenshot]](https://imgur.com/LxR5ZQy)
 [![Permission Screen Shot1][permission-screenshot-1]](https://imgur.com/lRiSrgC)
 [![Permission Screen Shot2][permission-screenshot-2]](https://imgur.com/Z2Xuu1d)
+[![EZU Logical DB Design][ezu_logical_design]](https://imgur.com/PPahJ8v)
 
 <!-- ### Prerequisites
 
@@ -270,3 +271,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [usernamepassword-screenshot]: https://imgur.com/LxR5ZQy.png
 [permission-screenshot-1]: https://imgur.com/lRiSrgC.png
 [permission-screenshot-2]: https://imgur.com/Z2Xuu1d.png
+[ezu_logical_design]: https://imgur.com/PPahJ8v.png
