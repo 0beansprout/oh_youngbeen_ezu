@@ -115,12 +115,12 @@ You can login to the website using the admin account.
 
 * ID
   ```sh
-   tester
+  tester
   ```
 
 * PW
   ```sh
-    {iSchoolUI}
+  {iSchoolUI}
   ```
 
 [![Username Password Screen Shot][usernamepassword-screenshot]](https://imgur.com/LxR5ZQy)
