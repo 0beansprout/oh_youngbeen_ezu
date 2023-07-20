@@ -109,7 +109,7 @@ The project aimed to utilize the Django App Framework to design, code, and test 
 If you want to demonstrate this website, you can find more information [here](https://yo8.pythonanywhere.com).
 
 The level of information accessibility for each user and group is determined by their respective authorization and authentication credentials. Please consult the table provided below to obtain further details regarding permissions.
-<br>
+<br><br>
 You can login to the website using the admin account.
 <br><br>
 
